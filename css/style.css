@@ -1,0 +1,53 @@
+
+
+.nav,.navbar{
+	width: 100%;
+}
+.container-fluid{
+	
+	max-height: 400px;
+	margin: 0%;
+
+}
+.container {
+        position: relative;
+        border-radius: 10px;
+        max-width: 700px;
+        text-align: center;
+      }
+
+#particles-js{
+		margin-top: -50px;
+		height: 700px;
+		background: #F09819; /* fallback for old browsers */
+		background: -webkit-radial-gradient(#00d2ff, #3a7bd5); /* Chrome 10-25, Safari 5.1-6 */
+		background: radial-gradient(#00d2ff, #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.circles-1 { 
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSJ3aGl0ZSIgLz4KICA8Y2lyY2xlIGN4PSIxIiBjeT0iMSIgcj0iMSIgZmlsbD0iIzU1OTRlNyIvPgo8L3N2Zz4="); 
+	background-repeat: repeat; 
+	background-color: transparent;
+}
+
+
+//devider 
+
+.border-gradient {
+  border-top: 10px solid;
+  border-image-slice: 1;
+  border-width: 100%;
+}
+.border-gradient-purple {
+  border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
+.border-gradient-green {
+  border-image-source: linear-gradient(to left, #00C853, #B2FF59);
+}
+
+.container-fluid2{
+	background: #ffFX;
+	max-height: 400px;
+	margin: 0%;
+}
+   
